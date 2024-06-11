@@ -1,0 +1,13 @@
+{
+  "createUser": {
+    "name": "Ganesh",
+    "job": "Employee"
+  },
+  "Tokenuser": {
+    "client_id": "pms_webapp",
+    "client_secret": "saqw21!@",
+    "username": "jyoti.prajapat@sourcefuse.com",
+    "password": "test123!@#"
+  }
+}
+  

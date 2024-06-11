@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "deleted": {
+          "type": "boolean"
+        },
+        "deletedOn": {
+          "type": "null"
+        },
+        "deletedBy": {
+          "type": "null"
+        },
+        "createdOn": {
+          "type": "string"
+        },
+        "modifiedOn": {
+          "type": "string"
+        },
+        "createdBy": {
+          "type": "null"
+        },
+        "modifiedBy": {
+          "type": "null"
+        },
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "status": {
+          "type": "integer"
+        },
+        "key": {
+          "type": "string"
+        },
+        "website": {
+          "type": "null"
+        },
+        "address": {
+          "type": "null"
+        },
+        "city": {
+          "type": "null"
+        },
+        "state": {
+          "type": "null"
+        },
+        "zip": {
+          "type": "null"
+        },
+        "country": {
+          "type": "null"
+        }
+      },
+      "required": [
+        "deleted",
+        "deletedOn",
+        "deletedBy",
+        "createdOn",
+        "modifiedOn",
+        "createdBy",
+        "modifiedBy",
+        "id",
+        "name",
+        "status",
+        "key",
+        "website",
+        "address",
+        "city",
+        "state",
+        "zip",
+        "country"
+      ]
+    }
+  ]
+}

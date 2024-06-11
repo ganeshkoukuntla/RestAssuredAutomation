@@ -1,0 +1,267 @@
+2024-05-26 14:06:44 INFO  LoggerUtil:8 - Setup complete.
+2024-05-26 14:06:44 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-26 14:06:45 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-26 14:06:45 INFO  LoggerUtil:8 - GET request test passed
+2024-05-26 22:53:16 INFO  LoggerUtil:8 - Setup complete.
+2024-05-26 22:53:16 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-26 22:53:18 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-26 22:53:18 INFO  LoggerUtil:8 - GET request test passed
+2024-05-26 22:54:06 INFO  LoggerUtil:8 - Setup complete.
+2024-05-26 22:54:07 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-26 22:54:08 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-26 22:54:08 INFO  LoggerUtil:8 - GET request test passed
+2024-05-26 22:54:08 INFO  LoggerUtil:8 - POST request test passed
+2024-05-27 13:35:04 INFO  LoggerUtil:8 - Setup complete.
+2024-05-27 13:35:04 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-27 13:35:06 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-27 13:35:06 INFO  LoggerUtil:8 - GET request test passed
+2024-05-27 13:35:06 INFO  LoggerUtil:8 - POST request test passed
+2024-05-27 13:45:03 INFO  LoggerUtil:8 - Setup complete.
+2024-05-27 13:45:03 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-27 13:45:05 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-27 13:45:05 INFO  LoggerUtil:8 - GET request test passed
+2024-05-27 13:45:05 INFO  LoggerUtil:8 - POST request test passed
+2024-05-27 13:45:50 INFO  LoggerUtil:8 - Setup complete.
+2024-05-27 13:45:50 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-27 13:45:51 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-27 13:45:51 INFO  LoggerUtil:8 - GET request test passed
+2024-05-27 13:45:51 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 21:40:40 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 21:40:40 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 21:40:41 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-30 21:40:41 INFO  LoggerUtil:8 - GET request test passed
+2024-05-30 21:40:41 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 21:43:00 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 21:43:00 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 21:43:01 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-30 21:43:01 INFO  LoggerUtil:8 - GET request test passed
+2024-05-30 21:43:01 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 22:00:09 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 22:00:09 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 22:00:09 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 22:00:11 INFO  LoggerUtil:8 - Response: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-30 22:00:11 INFO  LoggerUtil:8 - GET request test passed
+2024-05-30 22:00:11 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 22:00:11 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 22:23:30 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 22:23:30 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 22:23:31 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 22:23:31 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:07:50 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:07:51 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:07:52 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:07:52 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:15:53 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:15:53 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:15:54 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:15:54 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:16:25 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:16:25 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:16:26 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:16:26 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:18:17 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:18:17 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:18:18 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:18:18 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:24:13 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:24:13 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:24:15 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:24:15 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:24:15 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:24:15 INFO  LoggerUtil:8 - Starting POST request test
+2024-05-30 23:24:16 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:24:16 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:26:06 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:26:06 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:26:08 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:26:08 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:26:08 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:26:08 INFO  LoggerUtil:8 - Starting POST request test
+2024-05-30 23:26:09 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:26:09 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:31:53 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:31:53 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:31:54 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:31:54 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:31:54 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:31:54 INFO  LoggerUtil:8 - Starting POST request test
+2024-05-30 23:31:55 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:31:55 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:40:54 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:40:54 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:40:56 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:40:56 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:40:56 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:40:56 INFO  LoggerUtil:8 - Starting POST request test
+2024-05-30 23:40:56 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:40:56 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:49:26 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:49:26 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:49:28 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:49:28 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:49:28 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:49:28 INFO  LoggerUtil:8 - Starting POST request test
+2024-05-30 23:49:28 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:49:28 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:50:12 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:50:12 INFO  LoggerUtil:8 - Starting GET request test
+2024-05-30 23:50:13 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:50:13 INFO  LoggerUtil:8 - Teardown complete.
+2024-05-30 23:50:13 INFO  LoggerUtil:8 - Setup complete.
+2024-05-30 23:50:13 INFO  LoggerUtil:8 - Starting POST request test
+2024-05-30 23:50:14 INFO  LoggerUtil:8 - POST request test passed
+2024-05-30 23:50:14 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:15:07 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:15:07 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 19:15:12 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:15:12 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:15:12 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:15:12 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 19:15:14 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:15:14 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:17:19 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:17:19 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 19:17:23 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:17:23 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:17:23 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:17:23 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 19:17:25 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:17:25 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:18:14 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:18:14 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 19:18:18 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:18:19 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:18:19 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:18:19 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 19:18:20 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:18:20 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:22:40 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:22:40 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 19:22:45 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:22:45 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:22:45 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:22:45 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 19:22:47 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:22:47 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:47:56 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:47:56 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 19:48:02 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:48:02 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 19:48:02 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 19:48:02 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 19:48:04 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 19:48:04 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 21:29:00 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 21:29:00 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 21:29:04 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 21:30:21 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 21:30:21 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 21:30:25 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 21:32:44 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 21:32:44 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 21:32:48 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 21:53:55 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 21:53:55 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 21:53:55 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 21:54:01 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 21:54:27 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 21:54:27 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 21:54:27 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 21:54:36 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 21:54:36 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 21:55:03 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 21:55:03 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 21:55:03 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 21:55:15 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 21:55:15 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:05:00 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:05:01 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 22:05:01 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:05:07 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:08:24 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:08:24 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 22:08:24 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:08:32 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 22:08:32 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:12:07 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:12:08 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 22:12:08 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:12:09 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:12:10 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:17:50 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:17:50 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 22:17:50 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:17:52 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:17:52 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:18:21 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:18:21 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 22:18:21 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:18:23 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:18:23 INFO  LoggerUtil:8 - Starting GET request test
+2024-06-06 22:18:23 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:18:24 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:18:24 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:22:16 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:22:16 INFO  LoggerUtil:8 - Starting Tenants request test
+2024-06-06 22:22:16 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:22:18 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:22:18 INFO  LoggerUtil:8 - Starting Notifications count request test
+2024-06-06 22:22:18 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:22:19 INFO  LoggerUtil:8 - Notifications Count request test passed
+2024-06-06 22:22:19 INFO  LoggerUtil:8 - Starting Auth-Service Me request test
+2024-06-06 22:22:19 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:22:20 INFO  LoggerUtil:8 - Auth-Service Me request test passed
+2024-06-06 22:22:20 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:27:05 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:27:05 INFO  LoggerUtil:8 - Starting Tenants request test
+2024-06-06 22:27:05 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:27:07 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:27:07 INFO  LoggerUtil:8 - Starting Notifications count request test
+2024-06-06 22:27:07 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:27:08 INFO  LoggerUtil:8 - Notifications Count request test passed
+2024-06-06 22:27:08 INFO  LoggerUtil:8 - Starting Auth-Service Me request test
+2024-06-06 22:27:08 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:27:09 INFO  LoggerUtil:8 - Auth-Service Me request test passed
+2024-06-06 22:27:10 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:28:05 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:28:05 INFO  LoggerUtil:8 - Starting Tenants request test
+2024-06-06 22:28:05 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:28:07 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:28:07 INFO  LoggerUtil:8 - Starting Notifications count request test
+2024-06-06 22:28:07 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:28:08 INFO  LoggerUtil:8 - Notifications Count request test passed
+2024-06-06 22:28:08 INFO  LoggerUtil:8 - Starting Auth-Service Me request test
+2024-06-06 22:28:08 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:28:10 INFO  LoggerUtil:8 - Auth-Service Me request test passed
+2024-06-06 22:28:10 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:28:10 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:28:10 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 22:28:10 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:31:28 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:31:28 INFO  LoggerUtil:8 - Starting Tenants request test
+2024-06-06 22:31:28 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:31:30 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-06 22:31:30 INFO  LoggerUtil:8 - Starting Notifications count request test
+2024-06-06 22:31:30 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:31:32 INFO  LoggerUtil:8 - Notifications Count request test passed
+2024-06-06 22:31:32 INFO  LoggerUtil:8 - Starting Auth-Service Me request test
+2024-06-06 22:31:32 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-06 22:31:33 INFO  LoggerUtil:8 - Auth-Service Me request test passed
+2024-06-06 22:31:33 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-06 22:31:33 INFO  LoggerUtil:8 - Setup complete.
+2024-06-06 22:31:33 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-06 22:31:34 INFO  LoggerUtil:8 - POST request test passed
+2024-06-06 22:31:34 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-11 09:20:00 INFO  LoggerUtil:8 - Generating Auth token
+2024-06-11 09:20:05 INFO  LoggerUtil:8 - Setup complete.
+2024-06-11 09:20:05 INFO  LoggerUtil:8 - Starting Tenants request test
+2024-06-11 09:20:07 INFO  LoggerUtil:8 - Tenants request test passed
+2024-06-11 09:20:07 INFO  LoggerUtil:8 - Starting Notifications count request test
+2024-06-11 09:20:09 INFO  LoggerUtil:8 - Notifications Count request test passed
+2024-06-11 09:20:09 INFO  LoggerUtil:8 - Starting Auth-Service Me request test
+2024-06-11 09:20:10 INFO  LoggerUtil:8 - Auth-Service Me request test passed
+2024-06-11 09:20:10 INFO  LoggerUtil:8 - Teardown complete.
+2024-06-11 09:20:10 INFO  LoggerUtil:8 - Setup complete.
+2024-06-11 09:20:10 INFO  LoggerUtil:8 - Starting POST request test
+2024-06-11 09:20:11 INFO  LoggerUtil:8 - POST request test passed
+2024-06-11 09:20:11 INFO  LoggerUtil:8 - Teardown complete.

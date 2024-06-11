@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RestAssuredAutomationFramework">
+    <test name="APITests">
+        <classes>
+            <class name="tests.NewGET_Test">
+                <methods>
+                    <include name="testTenants"/>
+                    <include name="testNotificationsCount"/>
+                    <include name="testAuthServiceMe"/>
+                </methods>
+            </class>
+            <class name="tests.NewPost_Test">
+                <methods>
+                    <include name="testPost"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
