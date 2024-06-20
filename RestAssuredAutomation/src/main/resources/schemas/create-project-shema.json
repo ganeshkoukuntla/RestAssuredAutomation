@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "deleted": {
+      "type": "boolean"
+    },
+    "createdOn": {
+      "type": "string"
+    },
+    "modifiedOn": {
+      "type": "string"
+    },
+    "createdBy": {
+      "type": "string"
+    },
+    "modifiedBy": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "boardKind": {
+      "type": "string"
+    },
+    "sequenceNumber": {
+      "type": "integer"
+    },
+    "isTemplate": {
+      "type": "boolean"
+    },
+    "metaData": {
+      "type": "object",
+      "properties": {
+        "column": {
+          "type": "object",
+          "properties": {
+            "level": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "level"
+          ]
+        },
+        "templateType": {
+          "type": "string"
+        },
+        "depdendencyMigrationStatus": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "column",
+        "templateType",
+        "depdendencyMigrationStatus"
+      ]
+    },
+    "workspaceId": {
+      "type": "string"
+    },
+    "calendarId": {
+      "type": "string"
+    },
+    "boardTemplateType": {
+      "type": "string"
+    },
+    "links": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "deleted",
+    "createdOn",
+    "modifiedOn",
+    "createdBy",
+    "modifiedBy",
+    "id",
+    "name",
+    "boardKind",
+    "sequenceNumber",
+    "isTemplate",
+    "metaData",
+    "workspaceId",
+    "calendarId",
+    "boardTemplateType",
+    "links"
+  ]
+}

@@ -12,7 +12,7 @@
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
-            <version>5.4.0</version>
+            <version>5.3.2</version>
             <scope>test</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -62,10 +62,16 @@
             <version>2.11.0</version> <!-- Use the latest version available -->
         </dependency>
         <dependency>
-            <groupId>RestAssuredAutomation</groupId>
-            <artifactId>RestAssuredAutomation</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>5.4.0</version>
+            <scope>compile</scope>
         </dependency>
+        <!--        <dependency>-->
+<!--            <groupId>RestAssuredAutomation</groupId>-->
+<!--            <artifactId>RestAssuredAutomation</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
     </dependencies>
 
     <build>
@@ -81,6 +87,16 @@
                 <groupId>io.qameta.allure</groupId>
                 <artifactId>allure-maven</artifactId>
                 <version>2.10.0</version>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.0.0-M5</version>
+                <configuration>
+                    <suiteXmlFiles>
+                        <suiteXmlFile>testng.xml</suiteXmlFile> <!-- Specify your TestNG XML file -->
+                    </suiteXmlFiles>
+                </configuration>
             </plugin>
             <!-- Add the following options to your maven-surefire-plugin -->
             <plugin>

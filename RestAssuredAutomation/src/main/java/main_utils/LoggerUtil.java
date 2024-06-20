@@ -1,4 +1,4 @@
-package utils;
+package main_utils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 public class LoggerUtil {

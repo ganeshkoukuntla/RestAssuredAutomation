@@ -1,0 +1,28 @@
+{
+  "TokenEndpoint":"/auth-service/auth/login-token",
+  "tenants_endpoint":"/user-tenant-facade/tenants",
+  "notificationsCount_endpoint": "/notification-facade/notification-users/counts",
+  "authServiceMe_endpoint":"/auth-service/auth/me",
+  "createproject_endpoint":"/project-management-facade/boards",
+  "deleteproject_endpoint":"project-management-facade/boards/",
+
+  "TokenUser": {
+   "client_id": "pms_webapp",
+    "client_secret": "saqw21!@",
+    "username": "jyoti.prajapat@sourcefuse.com",
+    "password": "test123!@#"
+  },
+  "CreateProject":{
+  "workspaceId": "f77c1382-0362-4b18-051c-46531f3b825b",
+  "name": "testing",
+  "boardKind": "internal",
+  "metaData": {
+    "column": {
+      "level": "group"
+    },
+    "templateType": "RAID"
+  },
+  "boardTemplateType": "system"
+}
+}
+  
